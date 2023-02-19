@@ -6,7 +6,7 @@
   </head>
 
   <body>
-    <h1>Hello, World!</h1>
+    echo "<h1>Hello, World!</h1>\n";
   </body>
   
 </html>
